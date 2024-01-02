@@ -4,5 +4,14 @@
   "artist": "Urasawa Naoki",
   "author": "Urasawa Naoki",
   "cover": "https://meo.comick.pictures/R4ewJz-s.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "(Upscaled) Friend",
+      "volume": "1",
+      "last_updated": "1704194737",
+      "groups": {
+        "UpscaledManga ": "/proxy/api/imgur/chapter/AUHiFRJ"
+      }
+    }
+  }
 }
